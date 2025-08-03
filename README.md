@@ -3,7 +3,7 @@
 This is a personal portfolio site built for the PLP Hackathon 2025. It showcases my background, design skills, and software development journey. The site includes a downloadable CV, education history, skill set, and project links.
 
 ## 🌐 Live Demo
-View the live site here: [https://vkamuru.netlify.app](https://vkamuru.netlify.app)
+View the live site here: [https://vkamuru.netlify.app](https://vikamuru.netlify.app)
 
 ## 📄 Features
 - Personal introduction and background
